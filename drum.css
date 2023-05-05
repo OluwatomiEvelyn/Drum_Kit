@@ -1,0 +1,114 @@
+ .div {
+    width: 50px;
+    text-align: center;
+ }
+
+/* #bkg {
+   background-image: url(../../Downloads/jsbkg.png);
+   background-size: cover;
+   height: 800px;
+   align-content: flex-end;
+} */
+
+
+body {
+   background-image: url(../../Downloads/blue-250770_1280.jpg);
+   background-repeat: cover;
+   background-size: 100% 100%;
+   width: 1200px;
+   height: 800px;
+   margin: 0 auto;
+}
+
+ h1 {
+    font-size: 5rem;
+    color: #DBEDF3;
+    font-family: "Arvo", cursive;
+    text-shadow: 3px 0 #da0463;
+    text-align: center;
+ }
+
+ .w {
+   background-image: url(Images/xy1.jpg);
+   width: 100px;
+   height: 100px; 
+   margin-left: 250px;
+   
+   font-weight: 100;
+   font-size: xx-large;
+   padding: 10px;
+   border: solid 2px dodgerblue;
+   color: rgb(47, 99, 255);
+   border-radius: 10px;
+   margin-right: 10px;
+ }
+
+ .a {
+    background-image: url(Images/xy2.jpg);
+    width: 100px;
+    height: 100px; 
+    font-size: xx-large;
+    color: rgb(47, 99, 255);
+    border-radius: 10px;
+    border: solid 2px dodgerblue;
+    margin-right: 10px;
+ }
+
+ .s {
+    background-image: url(Images/xy3.jpg);
+    width: 100px;
+    height: 100px; 
+    font-size: xx-large;
+    color: rgb(47, 99, 255);
+    border-radius: 10px;
+    border: solid 2px dodgerblue;
+    margin-right: 10px;
+ }
+
+ .d {
+    background-image: url(Images/xy4.jpg);
+    width: 100px;
+    height: 100px; 
+    font-size: xx-large;
+    color: rgb(47, 99, 255);
+    border-radius: 10px;
+    border: solid 2px dodgerblue;
+    margin-right: 10px;
+ }
+
+.j{
+    background-image: url(Images/xy5.jpg);
+    width: 100px;
+   height: 100px; 
+   font-size: xx-large;
+   color: rgb(47, 99, 255);
+   border-radius: 10px;
+   border: solid 2px dodgerblue;
+   margin-right: 10px;
+}
+
+.k {
+    background-image: url(Images/xy6.jpg);
+    width: 100px;
+    height: 100px; 
+    font-size: xx-large;
+    color: rgb(47, 99, 255);
+    border-radius: 10px;
+    border: solid 2px dodgerblue;
+    margin-right: 10px;
+}
+
+.l {
+    background-image: url(Images/xy7.jpg);
+    width: 100px;
+    height: 100px; 
+    font-size: xx-large;
+    color: rgb(47, 99, 255);
+    border-radius: 10px;
+    border: solid 2px dodgerblue;
+}
+
+footer {
+   color: black;
+   font-family: sans-serif;
+}
